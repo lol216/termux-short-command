@@ -1,6 +1,7 @@
 echo"Hello I am WKL"
 echo"make by Wint Khant Lin"
 echo"I am 13"
+echo"copyright"
 echo"This script is long command to short as cmd"
 echo"support me with PUBG UC ID:5950924327"
 echo"start at 05:00PM end on 8:00"
